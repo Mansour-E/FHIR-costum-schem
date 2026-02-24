@@ -1,0 +1,15 @@
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\bin\Debug\net10.0\smart_handler.exe
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\bin\Debug\net10.0\smart_handler.deps.json
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\bin\Debug\net10.0\smart_handler.runtimeconfig.json
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\bin\Debug\net10.0\smart_handler.dll
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\bin\Debug\net10.0\smart_handler.pdb
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\smart_handler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\smart_handler.AssemblyInfoInputs.cache
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\smart_handler.AssemblyInfo.cs
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\smart_handler.csproj.CoreCompileInputs.cache
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\smart_handler.sourcelink.json
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\smart_handler.dll
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\refint\smart_handler.dll
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\smart_handler.pdb
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\smart_handler.genruntimeconfig.cache
+C:\Users\mansu\OneDrive\Desktop\FHIR\FHIR-CS-SMART-Handler\src\obj\Debug\net10.0\ref\smart_handler.dll
