@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("smart_handler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8079cb31cdd6aad54fdeac24c9633ac052db2707")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137d15849453a214844f176dd3e5200f341edc84")]
 [assembly: System.Reflection.AssemblyProductAttribute("smart_handler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("smart_handler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
